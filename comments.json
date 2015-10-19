@@ -10,5 +10,10 @@
     {
         "author": "Pranav Kulkarni",
         "text": "This is test comment!"
+    },
+    {
+        "author": "Test Tonic",
+        "text": "This is **another** test comment!"
     }
 ]
+
