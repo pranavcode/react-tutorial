@@ -18,5 +18,9 @@
     {
         "author": "007",
         "text": "My name is Bond, James Bond!"
+    },
+    {
+        "author": "Congrats",
+        "text": "This is the last comment!"
     }
 ]
